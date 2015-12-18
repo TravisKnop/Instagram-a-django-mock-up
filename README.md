@@ -1,3 +1,9 @@
+This is a quick mock-up of Instagram using Django. It was among the first web projects for The Iron Yard's Data Science class.
+
+
+
+
+
 # Django Social Site (data)
 
 ## Description
